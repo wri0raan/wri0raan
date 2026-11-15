@@ -1,77 +1,61 @@
-<div align="center">
+<a href="https://wri0raan.github.io/JURAN/"><img src="./assets/header.png" alt="김주란 Juran Kim — 현실의 움직임을 가상으로 옮기고, 다시 현실로 돌려줍니다" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Juran%20Kim&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=Visual%20Computing%20%C2%B7%20Simulation%20%C2%B7%20Vision%20%C2%B7%20XR&descSize=17&descAlignY=56&color=0:0f1630,100:2440e6" />
+<p align="center">
+<a href="https://wri0raan.github.io/JURAN/"><img src="https://img.shields.io/badge/포트폴리오-2440e6?style=flat-square&logo=githubpages&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/juranisworking/"><img src="https://img.shields.io/badge/LinkedIn-0f1630?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:juranisworking@gmail.com"><img src="https://img.shields.io/badge/Email-0f1630?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-**I turn real movement into simulation — and give it back to people as an experience.**
-
-<a href="https://wri0raan.github.io/JURAN/"><img src="https://img.shields.io/badge/Portfolio-2440e6?style=flat-square&logo=githubpages&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/juranisworking/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:juranisworking@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-
-</div>
-
-<img align="right" width="190" src="./cat.gif" />
-
-### 🐾 Now
-
-- 🦴 **Thesis** — fitting a physics-based dog model to video and simulating gait under patellar luxation
-- 🧩 **Quorate** — sole developer of CoSpace, a web 3D layout tool for exhibitions and factories
-- 🔬 **CUCG Lab** — undergraduate researcher since 2022, The Catholic University of Korea
-- 🧠 **Next** — physics-based body models for technology that lets neural signals drive movement and returns sensation
-
-<br clear="both">
-
-### 🔬 Research
+### 연구 <sub>Research</sub>
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/research/gait.html"><img src="./assets/gait.jpg" /></a><br><b>Dog gait simulation</b><br><sub>Video-calibrated physics model · patellar luxation · thesis 2026</sub></td>
-<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/research/xr-cafe.html"><img src="./assets/xr-cafe.jpg" /></a><br><b>XR Takeout Café</b><br><sub>AI barista + real coffee machine · HCI Korea 2024 Creative Award · 1st author</sub></td>
-<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/research/animatronics.html"><img src="./assets/animatronics.jpg" /></a><br><b>Magnetic animatronics</b><br><sub>Tentacle moved only by external electromagnets · KCGS 2022 Best Presentation</sub></td>
+<td width="50%" valign="top"><a href="https://wri0raan.github.io/JURAN/research/gait.html"><img src="./assets/gait.jpg" /></a><br><sub><b>2026 – 진행 중 · 졸업논문</b></sub><br><b>영상으로 보정한 반려견 물리 모델과 슬개골 탈구 보행</b><br><sub>물리 시뮬레이션 · 생체역학 · 궤적 최적화 · 영상 기반 보정</sub></td>
+<td width="50%" valign="top"><a href="https://wri0raan.github.io/JURAN/research/xr-cafe.html"><img src="./assets/xr-cafe.jpg" /></a><br><sub><b>2024 · HCI 창의상 우수상 · 제1저자</b></sub><br><b>XR 테이크아웃 카페</b><br><sub>XR · 생성형 AI · 음성 인터랙션 · 피지컬 피드백</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/research/crowd-sim.html"><img src="./assets/crowd.gif" /></a><br><b>Crowd simulation</b><br><sub>Self-driving fences cut 7,000-person evacuation time by 24.6%</sub></td>
-<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/acupoint.html"><img src="./assets/acupoint.jpg" /></a><br><b>AI Herbal Doctor</b><br><sub>Real-time body tracking · National Museum of Korea · Gwacheon Science Museum</sub></td>
-<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/xr-spatial.html"><img src="./assets/cospace.jpg" /></a><br><b>CoSpace</b><br><sub>3D layout for booths, factory lines and ship interiors · Quorate</sub></td>
+<td width="50%" valign="top"><a href="https://wri0raan.github.io/JURAN/research/animatronics.html"><img src="./assets/animatronics.jpg" /></a><br><sub><b>2022 · KCGS 우수발표상 · 논문지 게재</b></sub><br><b>외부 자력으로 움직이는 촉수 애니메트로닉스</b><br><sub>PID 제어 · 전자석 · 소프트 로보틱스 · 시뮬레이션</sub></td>
+<td width="50%" valign="top"><a href="https://wri0raan.github.io/JURAN/research/crowd-sim.html"><img src="./assets/crowd.gif" /></a><br><sub><b>2025 · KCGS 2025 포스터</b></sub><br><b>군중 시뮬레이션 연구</b><br><sub>군중 시뮬레이션 · 안전 · 정서 확산 · LLM</sub></td>
 </tr>
 </table>
 
-### 🎮 Games & projects
+### 프로젝트 <sub>Projects</sub>
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/wri0raan/CodeBlack"><img src="./assets/codeblack.gif" /></a><br><b>Code:Black</b> · <a href="https://wri0raan.github.io/JURAN/projects/code-black.html#play">▶ play</a> · <a href="https://github.com/wri0raan/CodeBlack">code</a><br><sub>2D action game in C++ / SDL2, no engine · DCIF 2025 Excellence Award</sub></td>
-<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/wordchain.html"><img src="./assets/wordchain.gif" /></a><br><b>AI Word Chain</b><br><sub>GPT-4 + Korean rule engine · 97.2% rule compliance · solo dev & paper</sub></td>
-<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/sangun.html#play"><img src="./assets/sangun.jpg" /></a><br><b>Sangun</b> · <a href="https://wri0raan.github.io/JURAN/projects/sangun.html#play">▶ play</a><br><sub>Joseon-era escape adventure in Unity · team lead of 10</sub></td>
+<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/acupoint.html"><img src="./assets/acupoint.jpg" /></a><br><sub><b>2025 · 박물관 전시</b></sub><br><b>AI 한의사와 혈자리 체험</b><br><sub>Unity · MediaPipe · 트래킹 · 전시</sub></td>
+<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/xr-spatial.html"><img src="./assets/cospace.jpg" /></a><br><sub><b>2026 – · 쿼레이트</b></sub><br><b>CoSpace 공간 배치 시각화</b><br><sub>3D 시각화 · 디지털 트윈 · 웹</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/wri0raan/CodeBlack"><img src="./assets/codeblack.gif" /></a><br><sub><b>2025 · 디지털콘텐츠 이노베이션 페스티벌 우수상</b></sub><br><b>Code:Black</b> · <a href="https://wri0raan.github.io/JURAN/projects/code-black.html#play">▶ 플레이</a> · <a href="https://github.com/wri0raan/CodeBlack">코드</a><br><sub>C++ · SDL2 · 상태기계 · 보스 AI</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/wordchain.html"><img src="./assets/wordchain.gif" /></a><br><sub><b>2025 · 학술연구 우수상 · 단독 개발</b></sub><br><b>AI와 끝말잇기</b><br><sub>Unity · GPT-4 · FastAPI · TTS</sub></td>
+<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/sangun.html"><img src="./assets/sangun.jpg" /></a><br><sub><b>2024 – 2025 · LUL 창립작 · 팀장</b></sub><br><b>산군</b> · <a href="https://wri0raan.github.io/JURAN/projects/sangun.html#play">▶ 플레이</a><br><sub>Unity · C# · FSM · 리더십</sub></td>
 </tr>
 </table>
 
-### 🛠 Tools
+### 도구 <sub>Tools</sub>
 
 <table>
-<tr><td><b>Languages</b></td><td>
+<tr><td><b>언어</b></td><td>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td></tr>
-<tr><td><b>Simulation & graphics</b></td><td>
-
-![MuJoCo](https://img.shields.io/badge/MuJoCo-1F2937?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) ![SDL2](https://img.shields.io/badge/SDL2-173A6B?style=flat-square) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td></tr>
-<tr><td><b>Vision & AI</b></td><td>
+<tr><td><b>시뮬레이션 · 그래픽스</b></td><td>
+
+![MuJoCo](https://img.shields.io/badge/MuJoCo-0f1630?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) ![SDL2](https://img.shields.io/badge/SDL2-173A6B?style=flat-square) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+</td></tr>
+<tr><td><b>비전 · AI</b></td><td>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![PyTorch3D](https://img.shields.io/badge/PyTorch3D-EE4C2C?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white) ![DeepLabCut](https://img.shields.io/badge/DeepLabCut-6B21A8?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td></tr>
-<tr><td><b>3D & content</b></td><td>
+<tr><td><b>3D · 콘텐츠</b></td><td>
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodeskmaya&logoColor=white) ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat-square&logo=houdini&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=black)
 
 </td></tr>
 </table>
 
-<div align="center">
-<br>
-<sub>More research, videos and playable builds at <a href="https://wri0raan.github.io/JURAN/">wri0raan.github.io/JURAN</a></sub>
-</div>
+<p align="center"><sub>더 많은 기록과 영상, 웹에서 바로 해 볼 수 있는 게임은 <a href="https://wri0raan.github.io/JURAN/">wri0raan.github.io/JURAN</a>에 있습니다.</sub></p>
