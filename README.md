@@ -2,8 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:0f1630,100:2440e6&text=%EA%B9%80%EC%A3%BC%EB%9E%80%20%20Juran%20Kim&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=VISUAL%20COMPUTING%20%C2%B7%20%EB%AA%B8%EA%B3%BC%20%EC%9B%80%EC%A7%81%EC%9E%84%EC%9D%84%20%EC%9E%AC%EA%B3%A0%2C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B3%A0%2C%20%EB%8B%A4%EC%8B%9C%20%EA%B2%BD%ED%97%98%ED%95%98%EA%B2%8C&descSize=15&descAlignY=58" />
 </div>
 
-<p align="center"><b>현실의 움직임을 <a href="https://wri0raan.github.io/JURAN/">가상으로 옮기고,</a> 다시 현실로 돌려줍니다</b><br>
-<sub>비전으로 몸과 공간을 재고, 그래픽스와 시뮬레이션으로 계산하고, XR로 다시 경험하게 하는 일을 합니다.</sub></p>
+<p align="center"><b>현실의 움직임을 <a href="https://wri0raan.github.io/JURAN/">가상으로 옮기고,</a> 다시 현실로 돌려줍니다</b></p>
 
 <p align="center">
 <a href="https://wri0raan.github.io/JURAN/"><img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-2440e6?style=flat-square&logo=githubpages&logoColor=white" height="24" /></a>
@@ -15,23 +14,13 @@
 
 <img src="https://img.shields.io/badge/%EC%A7%84%ED%96%89%20%EC%A4%91-2440e6?style=flat-square" /> 반려견 보행 물리 시뮬레이션 졸업논문 / 쿼레이트 CoSpace 1인 개발
 
-<table>
-<tr><td><b>재기</b></td><td>컴퓨터 비전</td><td><sub>동작 분석 · 자세 추정 · 영상 기반 3D 측정</sub></td></tr>
-<tr><td><b>계산하기</b></td><td>물리 시뮬레이션 · 그래픽스</td><td><sub>몸 모델 · 보행 · 군중 · 학습 기반 제어</sub></td></tr>
-<tr><td><b>돌려주기</b></td><td>XR · 디지털 트윈</td><td><sub>전시 인터랙션 · 공간 시각화 · 체험</sub></td></tr>
-</table>
+- **물리 시뮬레이션** &nbsp;<sub>몸 모델 · 보행 · 군중 · 궤적 최적화</sub>
+- **컴퓨터 비전** &nbsp;<sub>동작 분석 · 자세 추정 · 영상 기반 3D 측정</sub>
+- **컴퓨터 그래픽스** &nbsp;<sub>캐릭터 · 렌더링 · 3D 시각화</sub>
+- **XR · 인터랙션** &nbsp;<sub>전시 체험 · 음성 대화 · 디지털 트윈</sub>
 
 <sub><b>쓰이는 곳</b> &nbsp;재활 · 반려동물 보행 · 박물관과 공연장 · 공장과 전시장<br><b>더 멀리</b> &nbsp;신경 신호로 몸을 움직이고, 감각을 되돌려 주는 기술</sub>
 
-
-<table>
-<tr>
-<td align="center" width="25%"><h3>8편</h3>논문 · 발표<br><sub>제1저자 · 단독 4편</sub></td>
-<td align="center" width="25%"><h3>8회</h3>수상<br><sub>HCI Korea · KCGS · 학술연구 우수상 외</sub></td>
-<td align="center" width="25%"><h3>2곳</h3>국립 기관 전시<br><sub>국립중앙박물관 · 국립과천과학관</sub></td>
-<td align="center" width="25%"><h3>2회</h3>SIGGRAPH Asia SV 선발<br><sub>2022 대구 · 2024 도쿄</sub></td>
-</tr>
-</table>
 
 ### 연구 · 작업 <sub>Research</sub>
 
