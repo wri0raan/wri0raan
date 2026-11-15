@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/research/crowd-sim.html"><img src="./assets/crowd.gif" /></a><br><sub>2025 · KCGS 2025 포스터</sub><br><b>군중 시뮬레이션 연구</b><br><sub>군중 시뮬레이션 · 안전 · 정서 확산</sub></td>
-<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/acupoint.html"><img src="./assets/acupoint.jpg" /></a><br><sub>2025 · 국립중앙박물관 · 국립과천과학관</sub><br><b>AI 한의사와 혈자리 체험</b><br><sub>Unity · MediaPipe · 트래킹 · 전시</sub></td>
+<td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/acupoint.html"><img src="./assets/acupoint.jpg" /></a><br><sub>2025 · 국립과천과학관 전시</sub><br><b>AI 한의사와 혈자리 체험</b><br><sub>Unity · MediaPipe · 트래킹 · 전시</sub></td>
 <td width="33%" valign="top"><a href="https://wri0raan.github.io/JURAN/projects/xr-spatial.html"><img src="./assets/cospace.jpg" /></a><br><sub>2026 – · 쿼레이트 1인 개발</sub><br><b>CoSpace 공간 배치 시각화</b><br><sub>3D 시각화 · 디지털 트윈 · 웹</sub></td>
 </tr>
 </table>
