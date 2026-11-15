@@ -26,10 +26,10 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><a href="https://wri0raan.github.io/JURAN/about.html"><h2>8<sub>편</sub></h2></a><b>논문 · 발표</b><br><sub>제1저자 · 단독 4편</sub></td>
-<td align="center" width="25%"><a href="https://wri0raan.github.io/JURAN/about.html"><h2>8<sub>회</sub></h2></a><b>수상</b><br><sub>HCI Korea · KCGS · 학술연구 우수상 외</sub></td>
-<td align="center" width="25%"><a href="https://wri0raan.github.io/JURAN/projects/acupoint.html"><h2>2<sub>곳</sub></h2></a><b>국립 기관 전시</b><br><sub>국립중앙박물관 · 국립과천과학관</sub></td>
-<td align="center" width="25%"><a href="https://wri0raan.github.io/JURAN/activities/siggraph-2024.html"><h2>2<sub>회</sub></h2></a><b>SIGGRAPH Asia SV 선발</b><br><sub>2022 대구 · 2024 도쿄</sub></td>
+<td align="center" width="25%"><h3>8편</h3>논문 · 발표<br><sub>제1저자 · 단독 4편</sub></td>
+<td align="center" width="25%"><h3>8회</h3>수상<br><sub>HCI Korea · KCGS · 학술연구 우수상 외</sub></td>
+<td align="center" width="25%"><h3>2곳</h3>국립 기관 전시<br><sub>국립중앙박물관 · 국립과천과학관</sub></td>
+<td align="center" width="25%"><h3>2회</h3>SIGGRAPH Asia SV 선발<br><sub>2022 대구 · 2024 도쿄</sub></td>
 </tr>
 </table>
 
