@@ -2,8 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:0f1630,100:2440e6&text=%EA%B9%80%EC%A3%BC%EB%9E%80%20%20Juran%20Kim&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=VISUAL%20COMPUTING%20%C2%B7%20%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4%20%C2%B7%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%C2%B7%20%EB%B9%84%EC%A0%84%20%C2%B7%20XR&descSize=15&descAlignY=58" />
 </div>
 
-<p align="center"><b>현실의 움직임을 <a href="https://wri0raan.github.io/JURAN/">가상으로 옮기고,</a> 다시 현실로 돌려줍니다</b></p>
-
 <p align="center">
 <a href="https://wri0raan.github.io/JURAN/"><img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-2440e6?style=flat-square&logo=githubpages&logoColor=white" height="24" /></a>
 <a href="https://www.linkedin.com/in/juranisworking/"><img src="https://img.shields.io/badge/LinkedIn-0f1630?style=flat-square&logo=linkedin&logoColor=white" height="24" /></a>
@@ -18,9 +16,6 @@
 - **컴퓨터 비전** &nbsp;<sub>동작 분석 · 자세 추정 · 영상 기반 3D 측정</sub>
 - **컴퓨터 그래픽스** &nbsp;<sub>캐릭터 · 렌더링 · 3D 시각화</sub>
 - **XR · 인터랙션** &nbsp;<sub>전시 체험 · 음성 대화 · 디지털 트윈</sub>
-
-<sub><b>쓰이는 곳</b> &nbsp;재활 · 반려동물 보행 · 박물관과 공연장 · 공장과 전시장<br><b>더 멀리</b> &nbsp;신경 신호로 몸을 움직이고, 감각을 되돌려 주는 기술</sub>
-
 
 ### 연구 · 작업 <sub>Research</sub>
 
