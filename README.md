@@ -1,5 +1,5 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:0f1630,100:2440e6&text=%EA%B9%80%EC%A3%BC%EB%9E%80%20%20Juran%20Kim&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=VISUAL%20COMPUTING%20%C2%B7%20%EB%AA%B8%EA%B3%BC%20%EC%9B%80%EC%A7%81%EC%9E%84%EC%9D%84%20%EC%9E%AC%EA%B3%A0%2C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B3%A0%2C%20%EB%8B%A4%EC%8B%9C%20%EA%B2%BD%ED%97%98%ED%95%98%EA%B2%8C&descSize=15&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:0f1630,100:2440e6&text=%EA%B9%80%EC%A3%BC%EB%9E%80%20%20Juran%20Kim&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=VISUAL%20COMPUTING%20%C2%B7%20%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4%20%C2%B7%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%C2%B7%20%EB%B9%84%EC%A0%84%20%C2%B7%20XR&descSize=15&descAlignY=58" />
 </div>
 
 <p align="center"><b>현실의 움직임을 <a href="https://wri0raan.github.io/JURAN/">가상으로 옮기고,</a> 다시 현실로 돌려줍니다</b></p>
